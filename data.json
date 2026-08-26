@@ -1,0 +1,12 @@
+[
+  { "id": 1, "fname": "hanaa", "lname": "fathy", "age": 30, "city": "cairo" },
+  { "id": 2, "fname": "eman", "lname": "fathy", "age": 30, "city": "cairo" },
+  { "id": 3, "fname": "asmaa", "lname": "fathy", "age": 30, "city": "oman" },
+  { "id": 4, "fname": "yusuf", "lname": "gomaa", "age": 8, "city": "fayoum" },
+  { "id": 5, "fname": "sama", "lname": "gomaa", "age": 10, "city": "fayoum" },
+  { "id": 6, "fname": "sama", "lname": "gomaa", "age": 10, "city": "fayoum" },
+  { "id": 7, "fname": "sama", "lname": "gomaa", "age": 10, "city": "fayoum" },
+  { "id": 8, "fname": "sama", "lname": "gomaa", "age": 10, "city": "fayoum" },
+  { "id": 9, "fname": "yusuf", "lname": "gomaa", "age": 8, "city": "fayoum" },
+  { "id": 10, "fname": "manal", "lname": "fathi", "age": 22, "city": "fayoum" }
+]
