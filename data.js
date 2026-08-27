@@ -10,11 +10,6 @@ const addPerson = (id, fname, lname, age, city) => {
 
   if (fs.existsSync("data.json")) {
     let allData = read();
-    // const pool = allData.some((itm)=>itm.fname === item.fname)
-    // if(pool){
-    //   console.log("this name found already")
-    //   return;
-    // }
     const dublicate = allData.filter((obj) => obj.id === id);
     if (dublicate.length === 0) {
       allData.push(item);
